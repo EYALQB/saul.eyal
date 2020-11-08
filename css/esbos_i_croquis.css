@@ -1,0 +1,44 @@
+.targeta-esbos{
+    width: 30%;
+    margin: 0  0 0 0;
+    padding: 25px;
+    background-color: #37383d;
+    border-radius: 13px;
+    box-shadow: 5px 5px 50px #0e0d0d;
+}
+
+.titulo-esbos{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.contenedor{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boceto-plano{
+    height: 450px;
+    width: 328,77px;
+    margin-left: 100px;
+}
+
+#esbós-eyal{
+    height: 100%;
+    width: 733,94px;
+    margin-right: 20px;
+}
+
+#esbós-saül{
+    height: 100%;
+    width: 733,6px;
+    margin-right: 50px;
+    margin-left: 20px;
+}
+
+.div-biblio{
+    font-size: 14px;
+    margin-left: 35px;
+}
