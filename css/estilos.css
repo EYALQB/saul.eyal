@@ -56,7 +56,7 @@ button{
     cursor: pointer;
     transition: all 0.3s ease 0s;
     margin-left: 20px;
-    box-shadow: 0px 0px 7px rgba(163, 5, 211, 1);
+    box-shadow: 5px 5px 40px #0e0d0dc0;
 }
 
 .nav-links li{
@@ -88,6 +88,17 @@ button:hover{
     border-radius: 13px;
     box-shadow: 5px 5px 40px #0e0d0d;
     height: 100%;
+    
+}
+
+.animation:hover{
+    transform: scale(1.05);
+    transition: all 0.3s ease 0s;
+}
+
+.img:hover{
+    transform: scale(1.05);
+    transition: all 0.3s ease 0s;
 }
 
 .section-550{
@@ -131,7 +142,7 @@ button:hover{
     border-radius: 10px;
     cursor: pointer;
     transition: all 0.3s ease 0s;
-    box-shadow: 0px 0px 7px rgba(163, 5, 211, 1);
+    box-shadow: 5px 5px 40px #0e0d0dc0;
 }
 
 .titulo{
