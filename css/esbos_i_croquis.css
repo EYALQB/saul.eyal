@@ -7,6 +7,11 @@
     box-shadow: 5px 5px 50px #0e0d0d;
 }
 
+.targeta-esbos:hover{
+    transform: scale(1.05);
+    transition: all 0.3s ease 0s;    
+}
+
 .titulo-esbos{
     font-size: 25px;
     margin-bottom: 10px;
@@ -41,4 +46,14 @@
 .div-biblio{
     font-size: 14px;
     margin-left: 35px;
+}
+
+.contacte{
+    line-height: 25px;
+}
+
+.mail{
+    position: absolute; 
+    bottom: 50px;
+    left: 25px;
 }
